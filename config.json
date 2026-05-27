@@ -1,5 +1,16 @@
 {
-  "bypass": true,
-  "spinbot": false,
-  "speed": true
+    "bypass": true,
+    "bypasso": false,
+    "multihit": true,
+    "galaxya": false,
+    "normalaura": true,
+    "speedgame": false,
+    "speedplayer": true,
+    "ipad": false,
+    "nofall": true,
+    "stopai": false,
+    "box": true,
+    "smooth": false,
+    "longrange2": false,
+    "longrange15": true
 }
