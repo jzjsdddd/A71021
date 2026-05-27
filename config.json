@@ -1,16 +1,16 @@
 {
     "bypass": true,
-    "bypasso": false,
+    "bypasso": true,
     "multihit": true,
-    "galaxya": false,
+    "galaxya": true,
     "normalaura": true,
     "speedgame": false,
     "speedplayer": true,
-    "ipad": false,
+    "ipad": true,
     "nofall": true,
-    "stopai": false,
+    "stopai": true,
     "box": true,
-    "smooth": false,
-    "longrange2": false,
+    "smooth": true,
+    "longrange2": true,
     "longrange15": true
 }
