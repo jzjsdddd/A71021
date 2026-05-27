@@ -279,7 +279,7 @@ jobjectArray GetFeatureList(JNIEnv *env, jobject context) {
       //  OBFUSCATE("0_ButtonOnOff_The Bypass حماية"),
         OBFUSCATE("15_Toggle_Multi متعدد"),
        // OBFUSCATE("16_Toggle_longRange مدى بعيد"),
-        OBFUSCATE("9_Toggle_Galaxyجلكسي لانهائي"),
+        OBFUSCATE("9_Toggle_Galaxy كل زق"),
         OBFUSCATE("20_Toggle_normaملكي عادي"),
         
         OBFUSCATE("8_Toggle_Speedسبيد جيم"),
